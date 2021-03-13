@@ -1,17 +1,6 @@
 Survey App
 ===
 
-## Table of Contents
-* [Simple Currency Converter](#Simple Currency Converter)
-     * [Description](#Description)
-     * [Getting started](#Getting started)
-     * [Create Admin User](#Create Admin User)
-     * [Get Token](#Get Token)
-     * [Surveys](#Surveys)
-     * [Questions](#Questions)
-     * [Answers](#Answers)
-
-
 ##  Description
 
 Implement a simple API for creating surveys.
